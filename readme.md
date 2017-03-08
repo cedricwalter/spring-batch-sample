@@ -1,4 +1,4 @@
-Hellow world running in spring batch
+# Hello world running in spring batch
 
 This repository exist to show how to integrate spring-batch into your application without too much issues. 
 **It was a battle to make this work**, I hope to help some of you by publishing a working example.
