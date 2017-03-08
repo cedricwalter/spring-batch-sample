@@ -1,0 +1,1 @@
+All these jks are ONLY containing service name certificate for tomcat ssl connector
